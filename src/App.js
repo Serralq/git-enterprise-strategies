@@ -8,6 +8,11 @@ function App() {
         <img src={gatorLogo} className="App-logo" alt="logo" />
         <p> Hello World! </p>
         <p> My name is Alexander Dao and this is my project </p>
+         <img src={logo} className="App-logo" alt="logo" />
+         <p>
+          Hello World! This is our team project.
+        </p>
+>>>>>>> conflict 1 of 1 ends
       </header>
     </div>
   );
